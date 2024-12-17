@@ -20,7 +20,6 @@ academic knowledge to achieve
 
 professional success in the IT field.
 
-
 ## Skills
 
 Strong interpersonal skills and ability to build
