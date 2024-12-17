@@ -1,4 +1,4 @@
-## about me 
+## about me
 
 My name is Semira Tesfai. I am looking to go into Computer Science with MIT.
 
